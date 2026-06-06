@@ -1,0 +1,13 @@
+var R=require("../../../chunks/[turbopack]_runtime.js")("server/app/api/graphql/route.js")
+R.c("server/chunks/_1t709s9._.js")
+R.c("server/chunks/node_modules_next_dist_1n8jgp9._.js")
+R.c("server/chunks/node_modules_graphql_20unsoh._.js")
+R.c("server/chunks/node_modules_@graphql-tools_utils_1m7c88t._.js")
+R.c("server/chunks/node_modules_@graphql-tools_merge_00cnwem._.js")
+R.c("server/chunks/node_modules_@apollo_server_dist_05zxeta._.js")
+R.c("server/chunks/node_modules_@apollo_usage-reporting-protobuf_generated_cjs_protobuf_1of2mu5.js")
+R.c("server/chunks/[root-of-the-server]__0wo8fic._.js")
+R.c("server/chunks/[root-of-the-server]__0caoz7s._.js")
+R.c("server/chunks/_next-internal_server_app_api_graphql_route_actions_1p_v4k1.js")
+R.m("[project]/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/app/api/graphql/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/app/api/graphql/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports
